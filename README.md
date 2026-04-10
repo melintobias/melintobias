@@ -54,4 +54,5 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 ## 🐐 Bragging
 
 ![GitHub Stars](https://img.shields.io/github/stars/melintobias)
+
 </div>
