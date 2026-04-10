@@ -23,7 +23,7 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 ### 🗣️ Languages
 
 ![Python](https://img.shields.io/badge/Python-306998?&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&logo=javascript&logoColor=white&color=F0DB4F)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F.svg?&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?&logo=typescript&logoColor=white)
 
 ### 🏗️ Frameworks & Libraries
@@ -41,15 +41,15 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?&logo=windows11&color=0078d4)
-![macOS](https://img.shields.io/badge/macOS-000000?&logo=apple&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078d4?&logo=windows11)
+![macOS](https://img.shields.io/badge/macOS-000000?&logo=apple)
 
 ### 🧪 Services in my Home Lab
 
-![Adguard](https://custom-icon-badges.demolab.com/badge/Adguard-0.svg?logo=adguard&color=76b886&logoColor=white)
+![Adguard](https://custom-icon-badges.demolab.com/badge/Adguard-76b886.svg?logo=adguard&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
-![Syncthing](https://custom-icon-badges.demolab.com/badge/Syncthing-0.svg?logo=syncthing&color=0891d1&logoColor=white)
-![Unbound](https://custom-icon-badges.demolab.com/badge/Unbound-0.svg?logo=unbound&color=262770)
+![Syncthing](https://custom-icon-badges.demolab.com/badge/Syncthing-0891d1.svg?logo=syncthing&logoColor=white)
+![Unbound](https://custom-icon-badges.demolab.com/badge/Unbound-262770.svg?logo=unbound&logoColor=white)
 
 ## 🐐 Bragging
 
