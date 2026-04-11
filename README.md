@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 <div align="left">
-I'm a Swedish software engineer with an interest in solving problems in an elegant and efficient way. More information can be found on my <a href="https://www.linkedin.com/in/melintobias/">LinkedIn</a> profile.
+I'm a Swedish distributed systems and backend engineer with an interest in solving problems in an elegant and efficient way. More information can be found on my <a href="https://www.linkedin.com/in/melintobias/">LinkedIn</a> profile.
 </div>
 
 ## ⚙️ Tech Stack
