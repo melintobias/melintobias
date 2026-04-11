@@ -46,7 +46,7 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 
 ### 🧪 Services in my Home Lab
 
-![Adguard](https://custom-icon-badges.demolab.com/badge/Adguard-76b886.svg?logo=adguard&logoColor=white)
+![Adguard Home](https://custom-icon-badges.demolab.com/badge/Adguard%20Home-76b886.svg?logo=adguard&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Syncthing](https://custom-icon-badges.demolab.com/badge/Syncthing-0891d1.svg?logo=syncthing&logoColor=white)
 ![Unbound](https://custom-icon-badges.demolab.com/badge/Unbound-262770.svg?logo=unbound-white)
