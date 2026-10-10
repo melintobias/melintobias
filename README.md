@@ -13,7 +13,6 @@
 ## ⚙️ Tech Stack
 
 <div align="left">
-These are the technologies I have the most experience and fun with, but I enjoy perusing the cutting-edge by exploring new ones!
 </div>
 
 ### 🗣️ Languages
