@@ -29,6 +29,7 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?&logo=Qt&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-239120?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-009688?logo=typer&logoColor=white)
 
 ### ⚡ Runtime & Platforms
 
