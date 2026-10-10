@@ -42,7 +42,7 @@
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078d4?&logo=windows11)
 ![macOS](https://img.shields.io/badge/macOS-000000?&logo=apple)
 
-### 🧪 Services in my Home Lab
+### 🧪 Home Lab
 
 ![Adguard Home](https://custom-icon-badges.demolab.com/badge/Adguard%20Home-76b886.svg?logo=adguard&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
