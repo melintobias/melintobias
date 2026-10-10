@@ -25,6 +25,7 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 ### 🏗️ Frameworks & Libraries
 
 ![Pillow](https://img.shields.io/badge/Pillow-8CAAE6?logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?&logo=Qt&logoColor=white)
 
 ### ⚡ Runtime & Platforms
