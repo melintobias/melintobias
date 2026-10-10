@@ -3,8 +3,6 @@
 # Tobias Melin
 
 <p>
-  🇸🇪 Distributed Systems & Backend Engineer 🇸🇪
-
   <i>Building reliable, scalable, and efficient systems.</i>
 </p>
 
