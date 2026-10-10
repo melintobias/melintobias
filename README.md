@@ -51,8 +51,4 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 ![Syncthing](https://custom-icon-badges.demolab.com/badge/Syncthing-0891d1.svg?logo=syncthing&logoColor=white)
 ![Unbound](https://custom-icon-badges.demolab.com/badge/Unbound-262770.svg?logo=unbound-white)
 
-## 🐐 Bragging
-
-![GitHub Stars](https://img.shields.io/github/stars/melintobias)
-
 </div>
