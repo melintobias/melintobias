@@ -18,14 +18,17 @@ These are the technologies I have the most experience and fun with, but I enjoy 
 
 ### 🗣️ Languages
 
-![Python](https://img.shields.io/badge/Python-306998?&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F.svg?&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?&logo=typescript&logoColor=white)
 
 ### 🏗️ Frameworks & Libraries
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?&logo=node.js&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?&logo=Qt&logoColor=white)
+
+### ⚡ Runtime & Platforms
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 ### 🛠️ DevOps & Tools
 
